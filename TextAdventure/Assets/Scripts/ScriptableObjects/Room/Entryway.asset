@@ -17,9 +17,9 @@ MonoBehaviour:
     wall you see a bookshlef being used to store mecha toys.
   roomName: Mary's room
   exits:
-  - keyString: 
-    exitDescription: 
+  - keyString: North
+    exitDescription: You see two windows
     valueRoom: {fileID: 0}
-  - keyString: 
+  - keyString: South
     exitDescription: 
-    valueRoom: {fileID: 0}
+    valueRoom: {fileID: 11400000, guid: 0c514a7c23134461db30a3de46eeabb9, type: 2}
