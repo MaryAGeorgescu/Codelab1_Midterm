@@ -4,7 +4,13 @@
     <e p="$PROJECT_DIR$" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="Resources" t="Include">
+          <e p="be-brave" t="Include">
+            <e p="Inormation about the font!.txt" t="Include" />
+          </e>
+        </e>
         <e p="Scripts" t="Include">
+          <e p="AudioManager.cs" t="Include" />
           <e p="Exit.cs" t="Include" />
           <e p="GameController.cs" t="Include" />
           <e p="InputAction.cs" t="Include" />
